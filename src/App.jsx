@@ -214,7 +214,7 @@ export default function App() {
           <div className="avatar-outer" />
           <div className="avatar-inner" />
           <div className="avatar">
-            <img src={avatar} alt="Vallen Ousborne" />
+            <img src={avatar} alt="Vallen Ousbourne" />
           </div>
           <div className="avatar-cross">✝</div>
         </div>
@@ -231,7 +231,7 @@ export default function App() {
             <span className="social-icon"><InstagramIcon /></span>
             <span className="social-label">Instagram</span>
           </a>
-          <a href="https://www.tiktok.com/@vallenousborne" target="_blank" rel="noopener noreferrer" className="social-btn">
+          <a href="https://www.tiktok.com/@valenosbourne" target="_blank" rel="noopener noreferrer" className="social-btn">
             <span className="social-icon"><TikTokIcon /></span>
             <span className="social-label">TikTok</span>
           </a>
