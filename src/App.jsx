@@ -226,7 +226,7 @@ export default function App() {
 
         <div className="divider"><span>✝</span></div>
         <div>
-         apenas uma dependente emocional gorda que vai te destruir, vai seguir varios homens pq ja acabou com um. isso é um aviso a todos que forem aparecer, borderline, dei flores, presença, tudo de mim, tentei ser diferente dos antigos ex dela, não é suficiente, nunca vai ser, e agora que eu nao tenho mais nada, agora eu to doente e vai me tratar como vilao (assim como você já foi "vilão" de um antigo relacionamento seu), você é o proximo. se você duvida eu tenho provas, (@aeternuspoison) no instagram
+         apenas uma dependente emocional gorda que vai te destruir, vai seguir varios homens pq ja acabou com um. isso é um aviso a todos que forem aparecer, borderline, dei flores, presença, tudo de mim, tentei ser diferente dos antigos ex dela, não é suficiente, nunca vai ser, e agora que eu nao tenho mais nada virei um "filho da puta". eu to doente por conta dela e vai me tratar como vilao (assim como você já foi "vilão" de um antigo relacionamento seu), você é o proximo. se você duvida eu tenho provas, (@aeternuspoison) no instagram
         </div>
         <p className="footer">© {new Date().getFullYear()} Vallen Ousborne</p>
       </div>
