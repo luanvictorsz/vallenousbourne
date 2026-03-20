@@ -229,6 +229,8 @@ export default function App() {
           não se deixe iludir pelas fotos, ela não é mais assim...
           apenas uma dependente emocional gorda que vai te destruir, vai seguir varios homens pq ja acabou com um. fala que todos abandonam ela, isso é um aviso a todos que forem aparecer, borderline, dei flores, presença, tudo de mim, tentei ser diferente dos antigos ex dela, não é suficiente, nunca vai ser, e agora que eu nao tenho mais nada virei um "filho da puta". eu to doente por conta dela e vai me tratar como vilao (assim como você já foi "vilão" de um antigo relacionamento seu), você é o proximo. se você duvida eu tenho provas, (@aeternuspoison) no instagram
           quando ela ver isso ela vai apagar, mas se vc viu isso antes, tenta a sorte e veja acontecer exatamente o que eu falei... eu amei ela de verdade e ela fez isso comigo. o que eu fiz para ela?: <a href='https://minhaprimavera.vercel.app/'>minha primavera...</a>
+
+          eu a amei não por aparencia, mas por um personagem que ela criou e demorou a revelar
         </div>
         <p className="footer">© {new Date().getFullYear()} Vallen Ousborne</p>
       </div>
