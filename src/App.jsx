@@ -226,11 +226,7 @@ export default function App() {
 
         <div className="divider"><span>✝</span></div>
         <div>
-          Eu vivi um relacionamento em que me entreguei de verdade: ofereci cuidado, presença e tentei fazer diferente do que já tinha acontecido antes. Ainda assim, não foi suficiente e a relação terminou de um jeito difícil.
-          Hoje eu entendo que ninguém consegue sustentar um relacionamento sozinho, e que problemas emocionais precisam ser tratados com responsabilidade por quem os vive. Também percebo que não devo aceitar situações que me façam mal ou me coloquem como culpado por tudo.
-          Isso não é um ataque, é um relato. Cada um tem sua versão, mas eu sigo em frente com o que aprendi. Quem passar por algo parecido, cuide de si primeiro.
-          obs: se precisarem de provas para descobrir que, ela é: @aeternuspoison
-          nota: ela não é como na foto, ela está acima do peso, é borderline e vc será vilão assim como já foi nos seus relacionamentos anteriores, não importa o que vc faça, ela é dependente emocional e se vc se recusar a aceitar, vc vai ser o "filho da puta"
+         apenas uma dependente emocional gorda que vai te destruir, vai seguir varios homens pq ja acabou com um. isso é um aviso a todos que forem aparecer, borderline, dei flores, presença, tudo de mim, tentei ser diferente dos antigos ex dela, não é suficiente, nunca vai ser, e agora que eu nao tenho mais nada, agora eu to doente e vai me tratar como vilao (assim como você já foi "vilão" de um antigo relacionamento seu), você é o proximo. se você duvida eu tenho provas, nao comenta nada mas (@aeternuspoison) no instagram
         </div>
         <p className="footer">© {new Date().getFullYear()} Vallen Ousborne</p>
       </div>
