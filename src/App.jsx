@@ -225,14 +225,14 @@ export default function App() {
         </div>
 
         <div className="divider"><span>✝</span></div>
-
+        <div>apenas uma dependente emocional que vai te destruir, preciso seguir varios homens pq eu ja acabei com um</div>
         <div className="links">
-          <a href="https://www.instagram.com/vallenosbournee" target="_blank" rel="noopener noreferrer" className="social-btn">
+          <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" className="social-btn">
             <span className="social-icon"><InstagramIcon /></span>
             <span className="social-label">Instagram</span>
           </a>
-          <a href="https://www.tiktok.com/@valenosbourne" target="_blank" rel="noopener noreferrer" className="social-btn">
-            <span className="social-icon"><TikTokIcon /></span>
+          <a href="https://www..com/@valenosbourne" target="_blank" rel="noopener noreferrer" className="social-btn">
+            <span className="social-icon"><TikTokIcon/></span>
             <span className="social-label">TikTok</span>
           </a>
         </div>
