@@ -225,7 +225,7 @@ export default function App() {
         </div>
 
         <div className="divider"><span>✝</span></div>
-        <div>apenas uma dependente emocional que vai te destruir, preciso seguir varios homens pq eu ja acabei com um, flores? presenca? foda-se</div>
+        <div>apenas uma dependente emocional gorda que vai te destruir, preciso seguir varios homens pq eu ja acabei com um. <br/>flores? presenca? foda-se</div>
 
 
         <p className="footer">© {new Date().getFullYear()} Vallen Ousborne</p>
