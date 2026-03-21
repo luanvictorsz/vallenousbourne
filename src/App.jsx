@@ -226,6 +226,7 @@ export default function App() {
 
         <div className="divider"><span>✝</span></div>
         <div>
+          {/*
           não se deixe iludir pelas fotos, ela não é mais assim...
           apenas uma dependente emocional que vai te destruir, vai seguir varios homens pq ja acabou com um. fala que todos abandonam ela, isso é um aviso a todos que forem aparecer, borderline, dei flores, presença, tudo de mim, tentei ser diferente dos antigos ex dela, não é suficiente, nunca vai ser, e agora que eu nao tenho mais nada virei um "filho da puta". eu to doente por conta dela e vai me tratar como vilao (assim como você já foi "vilão" de um antigo relacionamento seu), você é o proximo. se você duvida eu tenho provas, (@aeternuspoison) no instagram
           <br/>
@@ -234,6 +235,9 @@ export default function App() {
           ela ainda tá com meus livros, não vai me devolver, é uma das coisas mais preciosas que eu tenho.
           <br/>
           eu a amei não por aparencia, mas por um personagem que ela criou e demorou a revelar
+          */}
+          sentirei saudades minha primavera...
+          <br/>ass: @aeternuspoison
         </div>
         <p className="footer">© {new Date().getFullYear()} Vallen Ousborne</p>
       </div>
